@@ -2,10 +2,9 @@
 title: Saturdyer at Typografia(er)
 date: 2026-09-27
 author: indicodeswitch
-img: colorful
+img: secondhome
 imgAlt: This is the image alt tag
-summary: make a one paragrpah summary
-Geoff Dyer’s talk at the Typographia: the Future of Print literary festival—held at Libreria on the Second Home rooftop—centered on the creative freedom of writing "beyond genre," where fiction, memoir, criticism, and essays fluidly overlap. Dyer shared insights into his writing process, noting his guiding motto to "write the book only you can write," and discussed how his projects often evolve unexpectedly, such as a planned book on D.H. Lawrence turning into an exploration of failing to write about him. Throughout the conversation, he reflected on subjective memory (such as a dispute over the color of a Rolls-Royce in his work), his working-class roots and path through Oxford, and his white-male privilege which historically allowed him to write freely about subjects like jazz history without outside scrutiny.
+summary: Geoff Dyer’s talk at the Typographia. The Future of Print literary festival—held at Libreria on the Second Home rooftop—centered on the creative freedom of writing "beyond genre," where fiction, memoir, criticism, and essays fluidly overlap. Dyer shared insights into his writing process, noting his guiding motto to "write the book only you can write," and discussed how his projects often evolve unexpectedly, such as a planned book on D.H. Lawrence turning into an exploration of failing to write about him. Throughout the conversation, he reflected on subjective memory (such as a dispute over the color of a Rolls-Royce in his work), his working-class roots and path through Oxford, and his white-male privilege which historically allowed him to write freely about subjects like jazz history without outside scrutiny.
 ---
 
 My favourite bookshop, Libreria, held a literary fest called Typographia: the Future of Print. It was a sunny end-of-summer Saturday, and the Second Home rooftop was already packed, with a long line of people still waiting for the lift to catch Geoff Dyer.

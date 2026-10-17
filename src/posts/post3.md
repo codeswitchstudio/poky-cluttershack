@@ -1,5 +1,5 @@
 ---
-title: How Vampires shave themself
+title: How Vampires shave themselves
 date: 2022-10-31
 author: John Doe
 img: office111
