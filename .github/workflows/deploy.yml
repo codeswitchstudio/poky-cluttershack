@@ -15,10 +15,10 @@ jobs:
         with:
           node-version: 20
       - run: npm ci
-      - run: npx @11ty/eleventy --pathprefix=/poky-cluttershack/
+      - run: npm run build
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: _site
+          path: public
   deploy:
     needs: build
     runs-on: ubuntu-latest
